@@ -58,7 +58,7 @@ To run this application on your local machine, follow these steps:
     ```
 
 4.  **Run the application:**
-    Open the `app.R` file (أو اسم الملف الذي يحتوي على الكود) in RStudio and click on "Run App" in the top right corner of the script editor.
+    Open the `code.R` file in RStudio and click on "Run App" in the top right corner of the script editor.
 
 ---
 
